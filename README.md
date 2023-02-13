@@ -8,6 +8,7 @@
 * Navigate to the Moringa Folder
 * Delete the folder with your group project
 * Repeat the process individually
+
 Thank you
 
 End...
